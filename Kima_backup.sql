@@ -446,7 +446,7 @@ GO
 
 -- Tabla de Historial de Tipos de Productos.
 BEGIN
-    CREATE TABLE Historial_TiposProductos (
+    CREATE TABLE dbo.Historial_TiposProductos (
         ID                   INT IDENTITY(1,1) PRIMARY KEY,
         TipoProductoID       INT               NOT NULL,
         Accion               VARCHAR(20)       NOT NULL,
