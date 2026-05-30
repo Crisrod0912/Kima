@@ -1,3 +1,3 @@
 # Kima
 
-🚧Page under construction🚧
+Web application in process...
