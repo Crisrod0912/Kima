@@ -20,7 +20,7 @@ This project focuses on developing a web application for the Costa Rican company
 - 🎨 **Frontend:** CSS, HTML, Javascript, SCSS
 - 💻 **Backend:** PHP
 - 🧱 **Framework**: Bootstrap
-- 📚 **Libraries**: Dompdf, html5-php, JQuery, PHP CSS Parser, php-font-lib, php-svg-lib
+- 📚 **Libraries**: Dompdf, html5-php, JQuery, PHP CSS Parser, PHP Font Lib, SVG file parsing / rendering library
 - 🗄️ **Database:** Microsoft SQL Server
 - 🌐 **Server**: Apache
 - 🧩 **Version Control:** Git
