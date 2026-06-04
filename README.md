@@ -1,6 +1,6 @@
 # 📋 Kima
 
-This project focuses on developing a web application for the Costa Rican company R.A. Costa Rica, which specializes primarily in regulatory affairs, registrations, and permits at the national and international levels. The platform aims to centralize and automate key business processes, improving document organization, project tracking, and internal workflow management. Through an integrated environment, users will be able to manage clients, quotes, requirements, products, and project tickets, while also benefiting from automated file conversion and reporting tools. The main objective is to increase productivity, reduce operational errors, improve project traceability, and provide a scalable solution capable of supporting the company's future growth.
+This project focuses on developing a web application for the Costa Rican company R.A. Costa Rica, a company specialized in regulatory affairs, registrations, and permit management at both national and international levels. The platform aims to centralize and automate key business processes, improving document organization, project tracking, and internal workflow management. Through an integrated environment, users will be able to manage clients, quotations, requirements, products, and project tickets, while also benefiting from automated file conversion and reporting tools. The main objective is to increase productivity, reduce operational errors, improve project traceability, and provide a scalable solution capable of supporting the company's future growth.
 
 ## ✨ Features
 
