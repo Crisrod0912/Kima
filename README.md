@@ -47,7 +47,7 @@ To run this project locally, you'll need to have the following installed:
 2. 🔐 Configure database access:
 
    - Open **SQL Server Management Studio**.
-   - Create a login in SQL Server that will be used to manage the Data Warehouse.
+   - Create a login in SQL Server that will be used to manage the project.
    
    Run the following commands in SQL Server Management Studio console:
    
